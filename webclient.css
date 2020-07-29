@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(250, 196, 125);
+}
+h1{
+    margin: 2%;
+}
+.container{
+    margin: 5%;
+    background-color: rgb(252, 136, 4);
+    padding: 5%;
+}
+label{
+    font-size: 2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    margin-top: 3%;
+}
+
+table#messages th {
+    text-align: center;
+    font-size: 2vw;
+}
+table#messages td{
+    text-align: center;
+}
